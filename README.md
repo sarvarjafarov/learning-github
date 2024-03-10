@@ -1,2 +1,2 @@
 # learning-github
-I have just started learning GitHub by Coursera. In this project I have applying what I learned throught the Course
+I have just started learning GitHub through Coursera. In this project I will be applying what I learned throughout the Course
